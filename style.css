@@ -1,0 +1,105 @@
+body{
+    background-color: darkred;
+}
+table{
+    width: 400px;
+    margin: 8px;
+    border: 3px solid #000;
+
+
+}
+h1{
+    text-shadow: -1px 2px 3px #000;
+    margin: 30px ;
+    color: antiquewhite;
+}
+h2{
+    color: darkorange;
+    text-shadow: -1px 2px 3px #000;
+    margin: 30px ;
+}
+h3{
+    color: burlywood;
+    text-shadow: -1px 2px 3px #000;
+    margin: 30px;
+}
+p{
+    color: aqua;
+    text-shadow: 1px 1px 1px #000;
+}
+td.linha{
+    background-color: blanchedalmond;
+    text-shadow: 1px 2px 3px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.dado{
+    color: #000;
+    background-color: white;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha1{
+    background-color: burlywood;
+    text-shadow: 10px 10px 10px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha2{
+    background-color: red;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+
+}
+td.linha3{
+    background-color: green;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha4{
+    background-color: crimson;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha5{
+    background-color: gray;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha6{
+    background-color: gold;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha7{
+    background-color: blue;
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha8{
+    background-color: cadetblue;
+
+}
+td.linha9{
+    background-color: gold;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha10{
+    background-color: darkgreen;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha11{
+    background-color: darkgoldenrod;
+    text-shadow: 1px 2px 3px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha12{
+    background-color: #4573;
+    box-shadow: 10px 10px 10px #000;
+    text-shadow: 1px 1px 1px #000;
+}
