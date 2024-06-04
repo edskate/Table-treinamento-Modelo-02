@@ -1,0 +1,107 @@
+body{
+    background-color: darkslategrey;
+}
+
+
+table{
+    width: 700px;
+    margin: 8px;
+    border: 6px solid #ffffff;
+
+
+}
+h1{
+    text-shadow: -1px 2px 3px #000;
+    margin: 30px ;
+    color: antiquewhite;
+}
+h2{
+    color: darkorange;
+    text-shadow: -1px 2px 3px #ffffff;
+    margin: 30px ;
+}
+h3{
+    color: burlywood;
+    text-shadow: -1px 2px 3px #ffffff;
+    margin: 30px;
+}
+p{
+    color: aqua;
+    text-shadow: 1px 1px 1px #000;
+}
+td.linha{
+    background-color: rgb(18, 190, 29);
+    text-shadow: 1px 2px 3px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.dado{
+    color: #000;
+    background-color: white;
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha1{
+    background-color: rgb(9, 199, 25);
+    text-shadow: 10px 10px 10px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha2{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+
+}
+td.linha3{
+    background-color: rgb(35, 202, 13);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha4{
+    background-color: rgb(238, 226, 228);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha5{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha6{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha7{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1pz 2pz 3pz #000;
+    box-shadow: 10px 10px 10px #000;
+    
+}
+td.linha8{
+    background-color: rgb(255, 255, 255);
+
+}
+td.linha9{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha10{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha11{
+    background-color: rgb(255, 255, 255);
+    text-shadow: 1px 2px 3px #000;
+    box-shadow: 10px 10px 10px #000;
+}
+td.linha12{
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 10px 10px 10px #000;
+    text-shadow: 1px 1px 1px #000;
+}
